@@ -2,7 +2,7 @@ import streamlit as st
 import altair as alt 
 import pandas as pd
 from PIL import Image
-public = pd.read_csv("NCES_public_clean.csv")
+
 public_ela = pd.read_csv("ny-ela-results-2013-2019-public-all.csv")
 public_math = pd.read_csv("ny-math-results-2013-2019-public-all.csv")
 
