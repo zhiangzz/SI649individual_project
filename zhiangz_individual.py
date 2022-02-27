@@ -17,7 +17,7 @@ st.title("Individual Project by Zhiang Zhang")
 ### Making of all charts [ Add altair code chunk for each of the specific charts]
 
 # Visualization 1
-Vis1 = Image.open("layout.jpg")
+Vis1 = Image.open("Layout.jpg")
 
 # st.write(Vis1)
 # Visualization 2
